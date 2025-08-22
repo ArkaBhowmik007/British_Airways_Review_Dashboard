@@ -80,7 +80,9 @@ By blending **two datasets – Countries and Reviews**, the project highlights p
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot of your dashboard here)*
+img src="/British_Airways.png" alt="Netflix_Dashboard"/>
+
+
 
 ---
 
