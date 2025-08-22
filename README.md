@@ -91,5 +91,3 @@ By blending **two datasets – Countries and Reviews**, the project highlights p
 * Build predictive models to estimate **future customer satisfaction trends**.
 
 ---
-
-Would you like me to make this **more formal (resume/project-portfolio style)** or **engaging (recruiter-friendly with storytelling tone)**?
